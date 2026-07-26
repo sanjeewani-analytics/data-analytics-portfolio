@@ -84,3 +84,13 @@ This portfolio will continue to grow as I complete additional business projects 
 ---
 
 Thank you for visiting my portfolio.
+## Portfolio Projects
+
+### 📊 Project 001 – Retail Sales Performance Dashboard
+Business analysis of retail sales data using Excel dashboards, PivotTables, KPI reporting, and business recommendations.
+
+### 📦 Project 002 – Procurement Performance Dashboard
+Procurement and supplier performance analysis including spend analysis, purchase order performance, lead time evaluation, and executive reporting.
+
+### 🏭 Project 003 – Warehouse Inventory Risk Analysis
+Warehouse and inventory analysis using XLOOKUP, inventory valuation, reorder level monitoring, lead-time risk assessment, dashboard development, and business recommendations.
