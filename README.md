@@ -83,7 +83,7 @@ This portfolio will continue to grow as I complete additional business projects 
 
 ---
 
-Thank you for visiting my portfolio.
+
 ## Portfolio Projects
 
 ### 📊 Project 001 – Retail Sales Performance Dashboard
@@ -94,3 +94,14 @@ Procurement and supplier performance analysis including spend analysis, purchase
 
 ### 🏭 Project 003 – Warehouse Inventory Risk Analysis
 Warehouse and inventory analysis using XLOOKUP, inventory valuation, reorder level monitoring, lead-time risk assessment, dashboard development, and business recommendations.
+---
+
+## About Me
+
+I am passionate about transforming business data into meaningful insights that support informed decision-making.
+
+My background in Procurement, Logistics, Shipping, and Supply Chain Operations has strengthened my analytical thinking and business understanding, which I now combine with practical data analytics skills using Microsoft Excel.
+
+I am currently seeking opportunities as a Junior Data Analyst where I can continue learning, contribute to business success, and grow professionally.
+
+Thank you for visiting my portfolio.
